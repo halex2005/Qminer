@@ -5,7 +5,7 @@ QMiner
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 [![Linux Build][travis-linux-image]][travis-linux-url]
-[![Linux Build][travis-mac-image]][travis-mac-url]
+[![Mac Build][travis-mac-image]][travis-mac-url]
 [![Windows Build][appveyor-image]][appveyor-url]
 
 QMiner is an analytics platform for large-scale real-time streams containing structured and
